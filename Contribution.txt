@@ -1,0 +1,10 @@
+
+
+IT22121738- Kurukulasooriya K D
+
+>All files in com.vendor, com.client  packages.
+>Created jsp files Account Registration, View Account, Update Account,Delete Account related to Client and Vendor...
+>Created aboutus.jsp, contactus.jsp
+
+
+
